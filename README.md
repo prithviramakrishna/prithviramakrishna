@@ -1,11 +1,11 @@
-[![MasterHead]<https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Flandscape%2F&psig=AOvVaw3A8B_GJR56YPAmQpmGjZFH&ust=1653161775308000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODyw9fp7vcCFQAAAAAdAAAAABAD>]
+[![MasterHead]<>]
 <h1 align="center">Hi 👋, I'm Prithvi Narve</h1>
 <h3 align="center">A passionate CS Student from India</h3>
 
 - 📫 How to reach me **prithviramakrishna14@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/prithvi-narve-0740691a2/](https://www.linkedin.com/in/prithvi-narve-0740691a2/)
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prithvi-narve-0740691a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prithvi-narve-0740691a2" height="30" width="40" /></a>
